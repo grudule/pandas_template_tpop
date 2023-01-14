@@ -1,4 +1,6 @@
 import pandas as pd 
+import matplotlib.pyplot as plt
+
 
 # get your data with the correct function :
 # pd.read_format_file("absolute/path/to/your/file", 
