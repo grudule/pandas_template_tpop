@@ -2,6 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 
 
+# pandas offical documentation : https://pandas.pydata.org/docs/
 # get your data with the correct function :
 # pd.read_format_file("absolute/path/to/your/file", 
 #                      sep= "<separator used in file>
